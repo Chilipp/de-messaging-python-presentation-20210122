@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# generated files from basic.ipynb
+api.py
+backend.py
