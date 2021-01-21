@@ -11,6 +11,25 @@ We present the prototype of an application programming interface (API) developed
 With our prototype, we demonstrate distributed data access and analysis workflows across institutional borders to enable effective scientific collaboration, thus deepening our understanding of the Earth system.
 
 
+## Files
+- [20210122-SommerP-de-messaging-framework.pdf](20210122-SommerP-de-messaging-framework.pdf) is the main presentation
+- [basic.ipynb](basic.ipynb) is a small example to demonstrate the high-level
+  API of the de-messaging-python framework
+- [example.ipynb](example.ipynb) is a slightly more advanced example motivated
+  by the _MOSES 4 Sternfahrt Mission_ of the HGF.
+
+Note that the source for this talk, de-messaging-python, is closed source
+(so far), so you won't be able to run these examples yourself (unless you're a
+member of Digital Earth or the Working Group for Distributed Data Analysis
+within Datahub). If you are
+interested, please get in touch with me (Philipp S. Sommer from HZG).
+
+
+## Acknowledgements
+
+This work has been created as part of the Working Group for Distributed Data Analysis within the HGF initiative DataHub, and Digital Earth.
+
+
 ## License
 
 The contents of this repository is published under the Creative Commons
