@@ -2,6 +2,8 @@
 
 _5th Data Science Symposium, January 22nd, 2021_
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4456787.svg)](https://doi.org/10.5281/zenodo.4456787)
+
 **Authors:** Philipp S. Sommer, Viktoria Wichert, Daniel Eggert, Tilman Dinter,
 Klaus Getzlaff, Andreas Lehmann, Christian Werner, Brenner Silva,
 Lennart Schmidt, Angela Schäfer
@@ -24,6 +26,13 @@ member of Digital Earth or the Working Group for Distributed Data Analysis
 within Datahub). If you are
 interested, please get in touch with me (Philipp S. Sommer from HZG).
 
+## How to cite
+
+Please cite this conference contribution as 
+
+> Sommer, Philipp S., Wichert, Viktoria, Eggert, Daniel, Dinter, Tilman, Getzlaff, Klaus, Lehmann, Andreas, … Schäfer, Angela. (2021, January). Distributed data analysis for better scientific collaborations (Version v1.0). Presented at the 5th Data Science Symposium, Zenodo. http://doi.org/10.5281/zenodo.4456787
+
+or use the different formats provided at http://doi.org/10.5281/zenodo.4456787
 
 ## Acknowledgements
 
